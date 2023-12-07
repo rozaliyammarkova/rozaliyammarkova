@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- ⚡ Fun fact **I lobe baking ❤️**
+- ⚡ Fun fact **I love baking ❤️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
