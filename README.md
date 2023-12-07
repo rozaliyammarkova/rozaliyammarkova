@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/18NuvCuUGGO0g7EPMdp0zHRvnbo5_Zp2Y/view?usp=share_link)(https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/18NuvCuUGGO0g7EPMdp0zHRvnbo5_Zp2Y/view?usp=share_link)
 <h1 align="center">Hi 👋, I'm Rozy</h1>
 <h3 align="center">I am a first-year MA Computing Student at the University of Aberdeen.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZrYXR1YjR3ejRvaDdhaWM4bzdtYWtna3BkamQxazY1eWxqcmo3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
