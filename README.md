@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rozy</h1>
 <h3 align="center">I am a first-year MA Computing Student at the University of Aberdeen.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/scaler-create-impact-coding-programming-chill-gif-24991316">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZrYXR1YjR3ejRvaDdhaWM4bzdtYWtna3BkamQxazY1eWxqcmo3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rozaliyammarkova&label=Profile%20views&color=0e75b6&style=flat" alt="rozaliyammarkova" /> </p>
 
