@@ -23,20 +23,21 @@
 
 <!-- Connect With Me Section -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rozaliya-markova-065417279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rozaliya-markova-065417279" height="30" width="40" /></a>
+  <p align="left">
+    <a href="https://linkedin.com/in/rozaliya-markova-065417279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rozaliya-markova-065417279" height="30" width="40" /></a>
 </p>
 
 <!-- Connect Section: END -->
 
+<!-- Coding Info Section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></p>
 
 <h2><b>My GitHub Stats</b><img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px></h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=rozaliyammarkova&show_icons=true&locale=en&layout=compact" alt="rozaliyammarkova" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozaliyammarkova&show_icons=true&locale=en" alt="rozaliyammarkova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozaliyammarkova&" alt="rozaliyammarkova" /></p>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rozaliyammarkova" alt="Rozy's Streak Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rozaliyammarkova&show_icons=true&locale=en&layout=compact" alt="rozaliyammarkova"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rozaliyammarkova&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Rozy's Language Stats" height="192px" width="500px"/>
+</div>
 
